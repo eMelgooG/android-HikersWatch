@@ -1,5 +1,5 @@
 # android-HikersWatch
-An app that wiill track and display your GPS coordinates live.
+An app which is tracking and displaying your GPS coordinates live.
   
 # Demo  
 ![](https://i.imgur.com/rSRqcFh.gif)
